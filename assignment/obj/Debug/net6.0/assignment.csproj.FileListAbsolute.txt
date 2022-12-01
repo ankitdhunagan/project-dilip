@@ -1,0 +1,15 @@
+E:\Dilip\Ankit\console\project-dilip\assignment\bin\Debug\net6.0\assignment.exe
+E:\Dilip\Ankit\console\project-dilip\assignment\bin\Debug\net6.0\assignment.deps.json
+E:\Dilip\Ankit\console\project-dilip\assignment\bin\Debug\net6.0\assignment.runtimeconfig.json
+E:\Dilip\Ankit\console\project-dilip\assignment\bin\Debug\net6.0\assignment.dll
+E:\Dilip\Ankit\console\project-dilip\assignment\bin\Debug\net6.0\assignment.pdb
+E:\Dilip\Ankit\console\project-dilip\assignment\obj\Debug\net6.0\assignment.csproj.AssemblyReference.cache
+E:\Dilip\Ankit\console\project-dilip\assignment\obj\Debug\net6.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dilip\Ankit\console\project-dilip\assignment\obj\Debug\net6.0\assignment.AssemblyInfoInputs.cache
+E:\Dilip\Ankit\console\project-dilip\assignment\obj\Debug\net6.0\assignment.AssemblyInfo.cs
+E:\Dilip\Ankit\console\project-dilip\assignment\obj\Debug\net6.0\assignment.csproj.CoreCompileInputs.cache
+E:\Dilip\Ankit\console\project-dilip\assignment\obj\Debug\net6.0\assignment.dll
+E:\Dilip\Ankit\console\project-dilip\assignment\obj\Debug\net6.0\refint\assignment.dll
+E:\Dilip\Ankit\console\project-dilip\assignment\obj\Debug\net6.0\assignment.pdb
+E:\Dilip\Ankit\console\project-dilip\assignment\obj\Debug\net6.0\assignment.genruntimeconfig.cache
+E:\Dilip\Ankit\console\project-dilip\assignment\obj\Debug\net6.0\ref\assignment.dll
