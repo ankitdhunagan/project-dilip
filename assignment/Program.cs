@@ -26,12 +26,13 @@ namespace assignment
             
         public class another {
             realworld obj1 = new realworld(); // assignment of object
+            realworld obj2 = new realworld(); //assignment of object
 
             obj1.age = 1;
             obj1.num = 2;
             //obj1.field3 = 3;
             //obj1.field4 = 4;
-            realworld obj2 = new realworld(); //assignment of object
+            
 
             obj2 field1 = 5;
             obj2 field2 = 6;
