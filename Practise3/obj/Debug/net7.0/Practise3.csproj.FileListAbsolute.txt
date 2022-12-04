@@ -1,0 +1,15 @@
+E:\Dilip\Ankit\console\project-dilip\Practise3\bin\Debug\net7.0\Practise3.exe
+E:\Dilip\Ankit\console\project-dilip\Practise3\bin\Debug\net7.0\Practise3.deps.json
+E:\Dilip\Ankit\console\project-dilip\Practise3\bin\Debug\net7.0\Practise3.runtimeconfig.json
+E:\Dilip\Ankit\console\project-dilip\Practise3\bin\Debug\net7.0\Practise3.dll
+E:\Dilip\Ankit\console\project-dilip\Practise3\bin\Debug\net7.0\Practise3.pdb
+E:\Dilip\Ankit\console\project-dilip\Practise3\obj\Debug\net7.0\Practise3.csproj.AssemblyReference.cache
+E:\Dilip\Ankit\console\project-dilip\Practise3\obj\Debug\net7.0\Practise3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dilip\Ankit\console\project-dilip\Practise3\obj\Debug\net7.0\Practise3.AssemblyInfoInputs.cache
+E:\Dilip\Ankit\console\project-dilip\Practise3\obj\Debug\net7.0\Practise3.AssemblyInfo.cs
+E:\Dilip\Ankit\console\project-dilip\Practise3\obj\Debug\net7.0\Practise3.csproj.CoreCompileInputs.cache
+E:\Dilip\Ankit\console\project-dilip\Practise3\obj\Debug\net7.0\Practise3.dll
+E:\Dilip\Ankit\console\project-dilip\Practise3\obj\Debug\net7.0\refint\Practise3.dll
+E:\Dilip\Ankit\console\project-dilip\Practise3\obj\Debug\net7.0\Practise3.pdb
+E:\Dilip\Ankit\console\project-dilip\Practise3\obj\Debug\net7.0\Practise3.genruntimeconfig.cache
+E:\Dilip\Ankit\console\project-dilip\Practise3\obj\Debug\net7.0\ref\Practise3.dll
