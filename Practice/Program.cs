@@ -11,13 +11,13 @@
 
             Console.WriteLine ("Enter your age:");
             string age = Console.ReadLine();
-            if age> 15
+            if (age => 18)
             {
-                Console.WriteLine("You are a voter");
+                Console.WriteLine("Your age is: "+ age + "and are a voter");
             }
             else
             {
-                Console.WriteLine("You are a non voter");
+                Console.WriteLine("Your age is: "+ age + "and are not a voter");
             }
 
 
