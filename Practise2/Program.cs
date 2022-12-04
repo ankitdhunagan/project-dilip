@@ -13,7 +13,7 @@
             string Fname = Console.ReadLine();
             Console.WriteLine ("Enter your Last Name:");
             string Lname = Console.ReadLine();
-            Console.WriteLine ("Fullname is:" + Fname + " " + Lname);
+            Console.WriteLine ("Fullname is: " + Fname + " " + Lname);
             // int age = Convert.ToInt32(Console.ReadLine());
             // //Console.WriteLine("Your age is: " + age + " and are a voter");
             // if (age >= 18)
