@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Dilip\\Ankit\\console\\project-dilip\\Practice\\Practice.csproj": {}
+    "E:\\Dilip\\Ankit\\console\\project-dilip\\Practise2\\Practise2.csproj": {}
   },
   "projects": {
-    "E:\\Dilip\\Ankit\\console\\project-dilip\\Practice\\Practice.csproj": {
+    "E:\\Dilip\\Ankit\\console\\project-dilip\\Practise2\\Practise2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dilip\\Ankit\\console\\project-dilip\\Practice\\Practice.csproj",
-        "projectName": "Practice",
-        "projectPath": "E:\\Dilip\\Ankit\\console\\project-dilip\\Practice\\Practice.csproj",
+        "projectUniqueName": "E:\\Dilip\\Ankit\\console\\project-dilip\\Practise2\\Practise2.csproj",
+        "projectName": "Practise2",
+        "projectPath": "E:\\Dilip\\Ankit\\console\\project-dilip\\Practise2\\Practise2.csproj",
         "packagesPath": "C:\\Users\\NI0090\\.nuget\\packages\\",
-        "outputPath": "E:\\Dilip\\Ankit\\console\\project-dilip\\Practice\\obj\\",
+        "outputPath": "E:\\Dilip\\Ankit\\console\\project-dilip\\Practise2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NI0090\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,3 +13,18 @@ I:\New folder\.NET-ankit\Practice\obj\Debug\net7.0\refint\Practice.dll
 I:\New folder\.NET-ankit\Practice\obj\Debug\net7.0\Practice.pdb
 I:\New folder\.NET-ankit\Practice\obj\Debug\net7.0\Practice.genruntimeconfig.cache
 I:\New folder\.NET-ankit\Practice\obj\Debug\net7.0\ref\Practice.dll
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net7.0\Practice.csproj.AssemblyReference.cache
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net7.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net7.0\Practice.AssemblyInfoInputs.cache
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net7.0\Practice.AssemblyInfo.cs
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net7.0\Practice.csproj.CoreCompileInputs.cache
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net7.0\Practice.dll
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net7.0\refint\Practice.dll
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net7.0\Practice.pdb
+E:\Dilip\Ankit\console\project-dilip\Practice\bin\Debug\net7.0\Practice.exe
+E:\Dilip\Ankit\console\project-dilip\Practice\bin\Debug\net7.0\Practice.deps.json
+E:\Dilip\Ankit\console\project-dilip\Practice\bin\Debug\net7.0\Practice.runtimeconfig.json
+E:\Dilip\Ankit\console\project-dilip\Practice\bin\Debug\net7.0\Practice.dll
+E:\Dilip\Ankit\console\project-dilip\Practice\bin\Debug\net7.0\Practice.pdb
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net7.0\Practice.genruntimeconfig.cache
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net7.0\ref\Practice.dll

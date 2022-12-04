@@ -1,0 +1,5 @@
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net6.0\Practice.csproj.AssemblyReference.cache
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net6.0\Practice.AssemblyInfo.cs
+E:\Dilip\Ankit\console\project-dilip\Practice\obj\Debug\net6.0\Practice.csproj.CoreCompileInputs.cache
