@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\project-dilip\\Loop\\Loop.csproj",
-      "projectName": "Loop",
-      "projectPath": "I:\\project-dilip\\Loop\\Loop.csproj",
+      "projectUniqueName": "I:\\project-dilip\\Loop\\Calculator\\Calculator.csproj",
+      "projectName": "Calculator",
+      "projectPath": "I:\\project-dilip\\Loop\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Upendra Dhungana\\.nuget\\packages\\",
-      "outputPath": "I:\\project-dilip\\Loop\\obj\\",
+      "outputPath": "I:\\project-dilip\\Loop\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Upendra Dhungana\\AppData\\Roaming\\NuGet\\NuGet.Config",
