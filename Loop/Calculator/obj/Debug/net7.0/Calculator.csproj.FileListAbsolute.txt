@@ -1,0 +1,15 @@
+I:\project-dilip\Loop\Calculator\bin\Debug\net7.0\Calculator.exe
+I:\project-dilip\Loop\Calculator\bin\Debug\net7.0\Calculator.deps.json
+I:\project-dilip\Loop\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+I:\project-dilip\Loop\Calculator\bin\Debug\net7.0\Calculator.dll
+I:\project-dilip\Loop\Calculator\bin\Debug\net7.0\Calculator.pdb
+I:\project-dilip\Loop\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+I:\project-dilip\Loop\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+I:\project-dilip\Loop\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+I:\project-dilip\Loop\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+I:\project-dilip\Loop\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+I:\project-dilip\Loop\Calculator\obj\Debug\net7.0\Calculator.dll
+I:\project-dilip\Loop\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+I:\project-dilip\Loop\Calculator\obj\Debug\net7.0\Calculator.pdb
+I:\project-dilip\Loop\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+I:\project-dilip\Loop\Calculator\obj\Debug\net7.0\ref\Calculator.dll

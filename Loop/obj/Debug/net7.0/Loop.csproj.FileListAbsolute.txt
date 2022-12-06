@@ -13,3 +13,11 @@ E:\dilip\Ankit\console\project-dilip\Loop\obj\Debug\net7.0\refint\Loop.dll
 E:\dilip\Ankit\console\project-dilip\Loop\obj\Debug\net7.0\Loop.pdb
 E:\dilip\Ankit\console\project-dilip\Loop\obj\Debug\net7.0\Loop.genruntimeconfig.cache
 E:\dilip\Ankit\console\project-dilip\Loop\obj\Debug\net7.0\ref\Loop.dll
+I:\project-dilip\Loop\obj\Debug\net7.0\Loop.csproj.AssemblyReference.cache
+I:\project-dilip\Loop\obj\Debug\net7.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+I:\project-dilip\Loop\obj\Debug\net7.0\Loop.AssemblyInfoInputs.cache
+I:\project-dilip\Loop\obj\Debug\net7.0\Loop.AssemblyInfo.cs
+I:\project-dilip\Loop\obj\Debug\net7.0\Loop.csproj.CoreCompileInputs.cache
+I:\project-dilip\Loop\obj\Debug\net7.0\Loop.dll
+I:\project-dilip\Loop\obj\Debug\net7.0\refint\Loop.dll
+I:\project-dilip\Loop\obj\Debug\net7.0\Loop.pdb
