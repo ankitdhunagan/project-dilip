@@ -1,18 +1,23 @@
 class A
 {
-    public int x;
+    public int x = 5;
+    
 }
 
 // Single Inheritance
 class B: A      //B inherits from A, B is of type A, A is parent of B
 {
-    public int y;
+    public int y = 10;
 }
 
 // Multilevel inheritance
 class C: B
 {
-    public int z;
+    public int z = 15;
+    int sum;
+    sum = x + y + z;
+    Console.WriteLine(sum);
+    
 }
 
 // Multiple inheritance
