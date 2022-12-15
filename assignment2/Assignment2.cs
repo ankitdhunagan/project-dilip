@@ -1,6 +1,8 @@
 ﻿using System;
 
- class Assignment2
+namespace Dilip
+{
+  class Assignment2
  {
    public static void Main()
    {
@@ -16,8 +18,9 @@
 
     Method m=new();
     m.LearnMethod();
-    m.Print("hello Ankit hows your days going on");
-    m.GetMessage();
+    String ww = m.GetMessage().Trim();
+    m.Print($"hello Ankit hows your days going on {ww}");
+    
 
     // double dilip = Convert.ToDouble(Console.ReadLine());
     // double aankit = Convert.ToDouble(Console.ReadLine());
@@ -34,3 +37,7 @@
    }
 
  }
+
+}
+
+ 
